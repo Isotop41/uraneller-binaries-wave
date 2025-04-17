@@ -3,14 +3,14 @@
   "name": "ArgonDefault",
   "colors": {
 
-    "editor.background": "#232323",
-    "minimap.background": "#232323",
-   "editorOverviewRuler.background": "#232323",
-   "editorOverviewRuler.border": "#232323",
+    "editor.background": "#151515",
+    "minimap.background": "#151515",
+   "editorOverviewRuler.background": "#151515",
+   "editorOverviewRuler.border": "#151515",
     "editor.foreground": "#7A7693",
-    "editorWidget.border": "#282828",
-    "editorWidget.background": "#232323",
-    "editor.lineHighlightBorder": "#282828"
+    "editorWidget.border": "#232323",
+    "editorWidget.background": "#151515",
+    "editor.lineHighlightBorder": "#232323"
   },
   "tokenColors": [
     {
